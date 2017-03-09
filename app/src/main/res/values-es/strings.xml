@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="Free_throw">tiro libre</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="reset">Reiniciar</string>
+    <string name="teamA">Equipo A</string>
+    <string name="teamB">Equipo B</string>
+    <string name="three_Points">+3 Puntos</string>
+    <string name="two_Points">+2 Puntos</string>
+</resources>
